@@ -1,2 +1,3 @@
 [profile.ci.fuzz]
 runs = 10_000
+eth-rpc-url = "https://reth-ethereum.ithaca.xyz/rpc"
